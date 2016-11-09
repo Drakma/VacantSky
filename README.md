@@ -11,7 +11,7 @@
   * Thermal Centrifuge
   * Metalurgic Infuser
   * AE2 Processors
-  * Mystical Agriculter essence seeds
+  * Mystical Agriculture essence seeds
 
 #####Misc Changes
   * IC2 machines no longer require a wrench to be moved/removed
