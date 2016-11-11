@@ -1,6 +1,13 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.3.19
+
+  * Removed EnderTanks
+  * Removed Progressive Automation]
+  * Added Fluidity
+  * Added Get Ya Tanks Here
+
 ####Change Log 0.3.2
 
   * Removed Refined Storage recipe dependancies
