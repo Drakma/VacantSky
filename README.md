@@ -1,6 +1,14 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.3.27
+
+  * Removed WAILA
+  * Removed WAILA Harvestability
+  * Removed WAWLA
+  * Added Useful Nullifiers
+  * Added The One Probe
+
 ####Change Log 0.3.20
 
   * Removed EnderTanks
