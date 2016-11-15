@@ -1,6 +1,12 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.3.71
+
+  * Removed Progressive Automation (for real this time)
+  * Added recipes for Fluix/Certus Quartz to Mystical Ag
+  * Updated a lot of mods
+
 ####Change Log 0.3.28
 
   * Removed need to have probe for The One Probe
@@ -16,7 +22,7 @@
 ####Change Log 0.3.20
 
   * Removed EnderTanks
-  * Removed Progressive Automation]
+  * Removed Progressive Automation
   * Added Fluidity
   * Added Get Ya Tanks Here
 
