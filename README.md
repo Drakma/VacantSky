@@ -1,6 +1,10 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.3.96
+
+  * Mod Updates
+
 ####Change Log 0.3.71
 
   * Removed Progressive Automation (for real this time)
