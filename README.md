@@ -1,6 +1,12 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.3.117
+
+  * Added Slugs EU Energy Converters
+  * Mod updates
+  * Forge Updated to 2151
+  
 ####Change Log 0.3.96
 
   * Mod Updates
