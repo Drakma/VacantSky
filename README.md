@@ -1,6 +1,18 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.7.12
+
+  * Removed SignPics
+  * Removed Ex Nihilo Omnia
+  * Added Ex Nihilo Adscenscio
+  * Updated all mods
+  * Forge updated to 2185
+  * ActuallyAdditions seeds added to dirt sieving
+  * RFTools machines recipes changed to fit the theme of the pack
+  * ActuallyAdditions recipes changed to fit the theme of the pack
+  * Torcherino recipe changed to make it cost more to make
+  
 ####Change Log 0.3.117
 
   * Added Slugs EU Energy Converters
