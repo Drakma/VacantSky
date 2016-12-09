@@ -6,6 +6,7 @@
   * IC2 upgraded from 2.6.105-ex110 to 2.8.105-ex110
   * JEI upgraded from 3.13.6.388 to 3.13.6.389
   * MailsisDoors upgraded from 5.1.5 to 5.1.6
+  * Added In Game Wiki [1.9.4] 1.3.0-5-universal
   * Changed Ghast Tear drops rates in string, flint, iron and diamond meshes to 1%, 3%, 5%, 8% respectively
 
 ####Change Log 0.7.33
