@@ -1,6 +1,13 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.7.33
+
+  * Added YUNoMakeGoodMap
+  * (re)Added Garden of Glass
+  * Added all Ex Nihilo Adscencio ore drops to smelerty/furnace
+  * Updated several mods and tweaked several recipes
+
 ####Change Log 0.7.12
 
   * Removed SignPics
