@@ -1,6 +1,12 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.7.41
+
+  * Added rubber saplings to dirt sieving
+  * Added ardite and cobalt drops to crushed netherrack
+  * Added Rockhoiunding : Chemistry
+
 ####Change Log 0.7.38
 
   * IC2 upgraded from 2.6.105-ex110 to 2.8.105-ex110
