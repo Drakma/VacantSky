@@ -1,6 +1,23 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.7.58
+
+  * Upgraded TinkerIO
+  * Upgraded Slugs Converters
+  * Upgraded SimplyJetpacks2
+  * Upgraded Rockhounding:Chemistry
+  * Upgraded RFTools Control
+  * Upgraded OreExcavation
+  * Upgraded MenuMobs
+  * Upgraded JourneyMap
+  * Upgraded Forestry
+  * Upgraded Chameleon
+  * Fixed recipes
+  * Fixed witchwater/soul sand creation
+  * Fixed rubber saplings in sieving
+  * Fixed Emerald drops in sieving
+
 ####Change Log 0.7.41
 
   * Added rubber saplings to dirt sieving
