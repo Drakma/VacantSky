@@ -1,6 +1,17 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.7.65
+
+  * Upgraded RouterReborn
+  * Upgraded Rockhounding:Chemistry
+  * Upgraded RFTools Dimensions
+  * Upgraded RFTools
+  * Upgraded Ex Nihilo Adscencio
+    * Fixes crash on placing hopper on barrel or crucible
+  * Upgraded Chickens
+  * Upgraded BetterBuildersWands
+  
 ####Change Log 0.7.58
 
   * Upgraded TinkerIO
