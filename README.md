@@ -1,6 +1,20 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.7.78
+
+  * Upgraded NoMoreRecipeConflict
+  * Upgraded TechReborn
+  * Upgraded StorageDrawers
+  * Upgraded RebornCore
+  * Upgraded JEI
+  * Upgraded ImmersiveEngineering
+  * Upgraded Hatchery
+  * Upgraded EnderCore
+  * Upgraded Chameleon
+  * Upgraded BetterBuildersWands
+  * Changed default OreExcavater from "sneak" to "grave" with the option to change in the control settings
+
 ####Change Log 0.7.65
 
   * Upgraded RouterReborn
