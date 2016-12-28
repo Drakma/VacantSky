@@ -1,6 +1,19 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.9.42
+
+  * Added Slime recipes for Blue Slime, Purple Slime, Magma Slime
+  * Added Horse Armors to SAG Mill
+  * Changed Max RF for EnderIO Conduits (doubled)
+  * The following recipes were changed:
+    * Rubber Seeds
+    * Ice Seeds
+    * Electrum Seeds
+    * Nickel Seeds
+    * Constantan Seeds
+  * Fixed Osmium drops
+
 ####Change Log 0.9.31
 
   * Upgraded Applied Energistics
