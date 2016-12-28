@@ -1,6 +1,62 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.9.31
+
+  * Upgraded Applied Energistics
+  * Upgraded BetterBuildersWands
+  * Upgraded Bloodmoon
+  * Upgraded BrandonsCore
+  * Upgraded ChanceCubes
+  * Upgraded Chickens
+  * Upgraded CodeChickenCore/Lib
+  * Upgraded CraftTweaker
+  * Upgraded DarkUtilities
+  * Upgraded Decocraft
+  * Upgraded Draconic Evolution
+  * Upgraded EnderIO
+  * Upgraded EnderStorage
+  * Upgraded Ex Nihilo Adscensio
+  * Upgraded Extra Utilities 2
+  * Upgraded Extreme Reactors
+  * Upgraded Forestry
+  * Upgraded Gendustry
+  * Upgraded GraveStone
+  * Upgraded Hatchery
+  * Upgraded ImersiveEngineering
+  * Upgraded JEI
+  * Upgraded LootBags
+  * Upgraded MikeDongles
+  * Upgraded Mob Grinding Utils
+  * Upgraded ModTweaker2
+  * Upgraded Morpheus
+  * Upgraded NotEnoughItems 1.8
+  * Upgraded OpenComputers
+  * Upgraded Ore Excavation
+  * Upgraded Quark
+  * Upgraded Reliquary
+  * Upgraded Rockhounding:Chemistry
+  * Upgraded Simply Jetpacks 2
+  * Upgraded Storage Drawers
+  * Upgraded TechReborn
+  * Upgraded thutcore
+  * Upgraded Actually Additions
+  * Upgraded Translocators
+  * Upgraded Chisels and Bits
+  * Upgraded Compact Solars
+  * Upgraded compatlayer
+  * Upgraded Mystical Agriculture
+  * Upgraded Quantum Storage
+  * Upgraded RFTools
+  
+  * Recipes Changes
+    * Angel Rings
+    * All RFTools machines
+    * All vanilla enderchest recipes changed to use EnderStorage
+    * Ability to kSAG mill dusts and duplicate ores has been removed
+    * Floating flowers now crafted by right clicking a glimmering flower on a barrel of helium
+  
+
 ####Change Log 0.7.78
 
   * Upgraded NoMoreRecipeConflict
