@@ -1,6 +1,12 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 0.9.48
+
+  * Changed Simply Jetpacks 2 recipes and lowered RF Storage
+  * Changed Angel Ring
+  * Fixed bug not allowing EnderIO items to be SAG Milled.
+
 ####Change Log 0.9.42
 
   * Added Slime recipes for Blue Slime, Purple Slime, Magma Slime
