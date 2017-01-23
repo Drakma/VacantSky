@@ -1,6 +1,39 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 1.1.0
+
+  * Updated Mekanism 9.2.1.298
+  * Updated Mekanism Generators
+  * Updated Mekanism Tools
+  * Updated zerocore 0.1.0.3
+  * Updated Translocator 2.1.3.51-universal
+  * Updated TechReborn 2.1.2.160-universal
+  * Updated Rockhounding Chemistry 1.25
+  * Updated RFTools 5.82
+  * Updated RebornCore 2.13.2.114-universal
+  * Updated QuantumStorage 3.2.19
+  * Updated MikeDongles 0.4.2
+  * Updated MalisisDoors 5.1.8
+  * Updated JEI 3.14.3.403
+  * Updated JourneyMap 5.4.4
+  * Updated ImmersiveEngineering 0.10-55
+  * Updated Hatchery  0.2.7
+  * Updated FullscreeenWindowed 1.4.0
+  * Updated Forestry 5.2.17.360
+  * Updated ExtremeReactors 0.4.5.26
+  * Updated ExtraUtils2 1.2.0
+  * Updated EnderCore 0.4.1.65-beta
+  * Updated EnderIO 3.1.164
+  * Added CyclopsCore 0.9.1
+  * Added ColossalChests 1.5.0
+  * Added FluxNetworks 1.1.1
+  * Added SonarCore 3.2.1
+  * Added TOP Addons 0.9.0
+  * Added FoamFix 0.5.2-anarchy
+  * Added MoarSigns 4.2.2.0
+  
+
 ####Change Log 0.9.48
 
   * Changed Simply Jetpacks 2 recipes and lowered RF Storage
