@@ -1,6 +1,17 @@
 # VacantSky
 ##Vacant Sky modpack for Minecraft 1.10.2
 
+####Change Log 1.1.3
+
+  * Added Wireless Crafting Terminalk 0.0.16
+  * Added AngelRingToBauble 0.2.3.16+d3100bf
+  * Added CEAdnimals 1.3.0
+  * Added Shear Madness 1.4.1
+  * Added Advanced Rocketry 1.0.13
+  * Fixed Recipes for new Mystical Agriculure Seeds
+  * REMOVED Get Ya 'Tanks Here
+  
+
 ####Change Log 1.1.0
 
   * Updated Mekanism 9.2.1.298
